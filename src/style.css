@@ -1,0 +1,16 @@
+.nav {
+  background-color: #08479e;
+  height: 48px;
+  display: flex;
+  align-items: center;
+}
+.body {
+  color: #fff;
+  margin: 0;
+}
+.h1 {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans,
+    Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
+    padding: 0 8px;
+}

@@ -3,6 +3,7 @@
   height: 48px;
   display: flex;
   align-items: center;
+  position: relative;
 }
 .body {
   color: #fff;
@@ -12,5 +13,14 @@
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans,
     Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
-    padding: 0 8px;
+  padding: 0 8px;
+}
+.moreAppsNav {
+  position: fixed;
+  left: 0;
+  top: 50px;
+  color: #000;
+}
+.hidden {
+     display: none;
 }
